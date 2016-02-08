@@ -18,6 +18,10 @@ body{
     height: 100vh;
 }
 
+.izq {
+    overflow: hidden;
+}
+
 .dch{
     img{margin-top: 20vh;}
     .btn {
@@ -49,6 +53,9 @@ body{
         width: 50%;
         margin: auto;}
 }
+
+//media querys
+
 @media (max-width: 1350px) {
     .izq > img {
         border-radius: 50%;}

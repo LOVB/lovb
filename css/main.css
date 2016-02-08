@@ -10,6 +10,9 @@ body {
   padding: 0;
   height: 100vh; }
 
+.izq {
+  overflow: hidden; }
+
 .dch img {
   margin-top: 20vh; }
 .dch .btn {
